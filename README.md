@@ -18,7 +18,7 @@ You can find a related post for this repository [here](https://medium.com/@xoor/
 spring-boot-jwt/
  │
  ├── src/main/java/
- │   └── murraco
+ │   └── com.dev
  │       ├── configuration
  │       │   └── SwaggerConfig.java
  │       │
