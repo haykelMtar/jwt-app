@@ -6,7 +6,7 @@
 2. Install dependencies 
 
 ## Api doc
-run project and enter url http://localhost:8090/swagger-ui.html#/
+run project and enter url `http://localhost:8090/swagger-ui.html#/`
 
 # Stack
 
