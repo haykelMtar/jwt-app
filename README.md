@@ -1,6 +1,13 @@
 # Spring Boot JWT
 
 
+## Installation
+1. Clone the project `git clone https://github.com/haykelMtar/jwt-app.git`
+2. Install dependencies 
+
+## Api doc
+run project and enter url http://localhost:8090/swagger-ui.html#/
+
 # Stack
 
 ![](https://img.shields.io/badge/java_8-✓-blue.svg)
@@ -12,7 +19,7 @@
 You can find a related post for this repository [here](https://medium.com/@xoor/jwt-authentication-service-44658409e12c).
 
 
-# File structure
+# project structure
 
 ```
 spring-boot-jwt/
